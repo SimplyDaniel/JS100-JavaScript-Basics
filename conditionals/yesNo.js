@@ -9,3 +9,7 @@ if (randomNumber === 1) {
 } else {
   console.log('No.')
 };
+
+// Adding part 2 below
+
+console.log(randomNumber ? 'Yes!' : 'No') 
